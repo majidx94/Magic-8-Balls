@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 import random
 
 name = input("Enter your Name: ")
