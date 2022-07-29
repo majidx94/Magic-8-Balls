@@ -1,9 +1,6 @@
 #Hello Guys, This is Majidx94
 #Check My Project from codecademy, try it and enjoy it...   ;)
 
-
-
-
 import random
 
 name = input("Enter your Name: ")
